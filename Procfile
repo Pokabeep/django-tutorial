@@ -1,1 +1,0 @@
-web: gunicorn CS3240S2021yw2aj.wsgi
